@@ -5,5 +5,6 @@ public class HelloWorld {
       System.out.println("Hello World!");
         System.out.println("I love shortcuts");
         System.out.println("because my typing is very bad");
+        System.out.println("but it is very fast");
     }
 }
